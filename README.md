@@ -12,20 +12,12 @@
 - Tipo de ataque: ``` Social-Engineering Attacks ```
 - Vetor de ataque: ``` Web Site Attack Vectors ```
 - Método de ataque: ```Credential Harvester Attack Method ```
-- Método de ataque: ``` Site Cloner ```
+- Método de ataque: ``` Custom Import ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
-### Resutados (Versão sem Defesa)
 
-![Alt text](./passwd.png "Optional title")
-
-### Defesa Facebook
-->Observe abaixo que atualmente o site do Facebook possui uma proteção contra script maliciosos. 
-
-![ERRO METODO INICIAL](https://github.com/user-attachments/assets/8d8a8455-dee2-45ed-b8ff-76fae88b142e)
-
-### Alternativa contra defesa
+### Alternativa contra defesa do site
 ->Uma possibilidade de resolução do caso, está no próprio ```setoolkit``` onde se pode realizar ```Custon Import```. Nesta opção iremos realizar uma clonagem e em seguida uma pequena edição no código fonte  original. 
 
 ![CUSTOM IMPORT](https://github.com/user-attachments/assets/604cae8e-111e-43c3-a530-252871c19bc6)
@@ -67,8 +59,9 @@
 ![DEFINIR COM A URL DA PAG FONTE](https://github.com/user-attachments/assets/50e80c13-6ea2-42e9-ab2c-399edf6f20dd)
 
 ## Resultado após aplicação do método contra a defesa
+![42eb6c7e-6ce2-424a-bf53-4cc8967832ef](https://github.com/user-attachments/assets/80ee4634-ee4c-4775-b737-14a90ce4f3a2)
 
-![USER AND PASSWORD](https://github.com/user-attachments/assets/11b8a323-1403-41d8-81d6-1744a0e448be)
+
 
 
 
